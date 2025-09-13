@@ -2,6 +2,8 @@
 
 This project is a complete machine learning solution for predicting taxi prices. It includes data cleaning and exploration, model training, and a user-friendly web application for making new predictions.
 
+Live App Link:==> https://testenergydatalinearregression-98pg6b9xxxxaffqhapp3qkg.streamlit.app/
+
 Key Features
 Data Analysis: The project starts by analyzing real-world taxi trip data, cleaning it, and preparing it for model training.
 

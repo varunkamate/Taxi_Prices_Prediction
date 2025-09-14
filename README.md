@@ -10,6 +10,8 @@ Live App Link:==> https://testenergydatalinearregression-98pg6b9xxxxaffqhapp3qkg
 
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/74cc7f3d-33bb-4af6-be7f-5f8206b6bf7b" />
 
+==============================================================================
+
 Key Features
 Data Analysis: The project starts by analyzing real-world taxi trip data, cleaning it, and preparing it for model training.
 
